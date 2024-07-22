@@ -1,6 +1,6 @@
-# Movies/Series Website
+# MovieMeter Website
 
-A simple web application to search and display information about movies and series. Built with React, styled with TailwindCSS, and using the OMDb (Open Movie Database) API to fetch movie and series data.
+A simple web application to display information about movies and series. Built with React, styled with TailwindCSS, and using the OMDb (Open Movie Database) API to fetch movie and series data.
 
 ## Features
 
@@ -26,7 +26,7 @@ A simple web application to search and display information about movies and seri
 
     ```bash
     git clone https://github.com/ismaildrs/movie-meter.git
-    cd movies-meter
+    cd movie-meter
     ```
 
 2. Install dependencies:
