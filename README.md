@@ -60,7 +60,7 @@ The application will be available at `http://localhost:5173/`.
 ## Images
 
 ### Mobile Version
-![Home Page](pictures/pictures/screenshot1.png)
+![Home Page](pictures/screenshot1.png)
 ![Home Page](pictures/screenshot9.png)
 ![Movies Page](pictures/screenshot8.png)
 ![Movie Infos](pictures/screenshot7.png)
