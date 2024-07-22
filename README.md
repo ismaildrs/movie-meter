@@ -42,7 +42,7 @@ A simple web application to search and display information about movies and seri
     Create a `.env` file in the root of your project and add your OMDb API key:
 
     ```plaintext
-    REACT_APP_OMDB_API_KEY=your_api_key_here
+    VITE_OMDB_API_KEY=your_api_key_here
     ```
 
 ### Running the Application
@@ -50,45 +50,17 @@ A simple web application to search and display information about movies and seri
 Start the development server:
 
 ```bash
-npm start
+npm run dev
 # or
-yarn start
+yarn run dev
 ```
 
-The application will be available at `http://localhost:3000`.
-
-## Project Structure
-
-```plaintext
-movies-series-website/
-├── public/
-│   ├── index.html
-│   └── ...
-├── src/
-│   ├── components/
-│   │   ├── MovieCard.js
-│   │   ├── SearchBar.js
-│   │   └── ...
-│   ├── pages/
-│   │   ├── HomePage.js
-│   │   ├── MovieDetailPage.js
-│   │   └── ...
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-├── .env
-├── package.json
-└── ...
-```
+The application will be available at `http://localhost:5173/`.
 
 ## Images
 
-### Home Page
-![Home Page](path/to/home-page-image.png)
+### Mobile Version
+![Mobile Mockup](pictures/1.png)
 
-### Movie Detail Page
-![Movie Detail Page](path/to/movie-detail-page-image.png)
-
----
-
-Feel free to modify the paths to the images according to your project's specific details and directory structure.
+### PC Version
+![PC Mockup](pictures/2.png)
