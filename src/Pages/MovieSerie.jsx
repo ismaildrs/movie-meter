@@ -6,8 +6,8 @@ export default function MovieSerie() {
   const { id } = useParams();
 
   return (
-    <div className=''>
-      <MovieInfos id={id} />
+    <div>
+        <MovieInfos id={id} />
     </div>
   );
 }
