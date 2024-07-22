@@ -3,7 +3,6 @@ import "../index.css"; // Import CSS file for transitions
 import useRouteChange from '../hooks/routeChange';
 
 export default function CarouselItem({ bgUrl, logoUrl, desc, active, id }) {
-  console.log(id);
   return (
     <div className={`w-screen carousel-item relative ${active ? 'active' : ''}`}>
       <div className="relative">
