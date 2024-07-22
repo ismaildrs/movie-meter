@@ -59,16 +59,15 @@ The application will be available at `http://localhost:5173/`.
 
 ## Images
 
-### PC version
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.50.11.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.50.18.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.50.15.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.50.27.png)
+### Mobile Version
+![Home Page](pictures/pictures/screenshot1.png)
+![Home Page](pictures/screenshot9.png)
+![Movies Page](pictures/screenshot8.png)
+![Movie Infos](pictures/screenshot7.png)
+![Movie Infos](pictures/screenshot6.png)
 
-### Mobile version
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.48.42.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.48.38.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.48.57.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.49.13.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.49.16.png)
-![Home Page](pictures/Screen Shot 2024-07-22 at 11.49.16.png)
+### PC Version
+![Home Page](pictures/screenshot5.png)
+![Movies Section](pictures/screenshot3.png)
+![Series Section](pictures/screenshot4.png)
+![Movie Infos](pictures/screenshot2.png)
